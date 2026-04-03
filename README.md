@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO">
-    <img src="https://img.shields.io/github/followers/TU_USUARIO?label=Seguidores&style=for-the-badge" alt="GitHub followers">
+  <a href="https://github.com/diegoarmandoramirezpineda">
+    <img src="https://img.shields.io/github/followers/diegoarmandoramirezpineda?label=Seguidores&style=for-the-badge" alt="GitHub followers">
   </a>
-  <a href="https://github.com/TU_USUARIO?tab=repositories">
+  <a href="https://github.com/diegoarmandoramirezpineda?tab=repositories">
     <img src="https://img.shields.io/badge/Repositorios-Ver%20proyectos-black?style=for-the-badge" alt="Repositorios">
   </a>
   <a href="https://www.linkedin.com/in/diegoramirezpineda/">
@@ -88,22 +88,22 @@ Actualmente también estoy construyendo proyectos personales con enfoque en <b>s
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/TU_USUARIO/etl-clientes-aws">ETL de clientes en AWS</a></td>
+      <td><a href="https://github.com/diegoarmandoramirezpineda/etl-clientes-aws">ETL de clientes en AWS</a></td>
       <td>Pipeline de ingestión, transformación y análisis de datos orientado a datasets empresariales.</td>
       <td>Python, AWS, S3, Athena, Glue</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/TU_USUARIO/dashboard-ventas-bi">Dashboard de ventas BI</a></td>
+      <td><a href="https://github.com/diegoarmandoramirezpineda/dashboard-ventas-bi">Dashboard de ventas BI</a></td>
       <td>Proyecto enfocado en indicadores, análisis comparativos y visualización ejecutiva.</td>
       <td>SQL, BI, QuickSight</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/TU_USUARIO/prediccion-seguros-ml">Predicción de seguros</a></td>
+      <td><a href="https://github.com/diegoarmandoramirezpineda/prediccion-seguros-ml">Predicción de seguros</a></td>
       <td>Modelo orientado a predicción binaria con enfoque de negocio y consumo posterior vía API.</td>
       <td>Python, ML, API</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/TU_USUARIO/data-quality-checker">Data Quality Checker</a></td>
+      <td><a href="https://github.com/diegoarmandoramirezpineda/data-quality-checker">Data Quality Checker</a></td>
       <td>Validación de nulos, duplicados, estructura, consistencia y reglas básicas de calidad.</td>
       <td>Python, SQL</td>
     </tr>
@@ -115,12 +115,12 @@ Actualmente también estoy construyendo proyectos personales con enfoque en <b>s
 <h2>Estadísticas de GitHub</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=diegoarmandoramirezpineda&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoarmandoramirezpineda&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com?user=diegoarmandoramirezpineda&theme=tokyonight&hide_border=true" alt="GitHub streak">
 </p>
 
 ---
